@@ -3,7 +3,7 @@
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
- * @package  Laravel
+ * @package  Laravel 5
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
 
